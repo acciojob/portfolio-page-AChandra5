@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+img{
+    border-radius: 50%;
+    width: 150px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
